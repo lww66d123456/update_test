@@ -2,7 +2,9 @@
 hello,everything!
 	I am coming.hahaha
 what's your name?
+<<<<<<< HEAD
         Peter?
 最新合并内容哇哈哈
 你什么档次，跟我用 一样的电脑，给我砸了
-========这是master分支内容===========
+========这是master分支内容========
+========这是mergedemo=============
